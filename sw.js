@@ -3,7 +3,7 @@
 // If you do want to use this, you'll need to update the file manually for every change to trigger an update
 // Last modified: 2018-04-25 12:58PT
 
-const cacheName = 'pwa-conf-v1';
+const cacheName = 'pwa-conf-v2';
 const staticAssets = ['./', './index.html', './app.js', './styles.css'];
 
 self.addEventListener('install', async event => {
